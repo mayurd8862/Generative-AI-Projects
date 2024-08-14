@@ -6,3 +6,5 @@
 ### 4) 🌐 SynthSite: Summarize & Chat Web Platform
 ### 5) 📊 TabularConverse: Chat with Your CSV Data
 ### 6) 📚 SummarioMail: "Summarize Your Mails with Ease."
+### 7) 🗃️ FileSense.AI : AI Powered File Renamer
+
