@@ -19,4 +19,8 @@
 
 ### 10) Interview prep tool
 
+### 11) Prompt Enhancer
+
+### 12) GraphRAG - Neo4j
+
 
