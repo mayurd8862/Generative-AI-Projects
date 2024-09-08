@@ -8,7 +8,7 @@
 ### 6) 📚 SummarioMail: "Summarize Your Mails with Ease."
 ### 7) 🩺 Medical Reports Analyzer
 ### 8) 📹 EduQuizer: Youtube Video Quiz Maker
-
+### 9) 🚩 Marathi RAG system
 
 
 
