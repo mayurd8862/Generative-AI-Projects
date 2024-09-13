@@ -9,7 +9,7 @@
 ### 7) 🩺 Medical Reports Analyzer
 ### 8) 📹 EduQuizer: Youtube Video Quiz Maker
 ### 9) 🚩 Marathi RAG system
-
+### 10) ⚡ PromptPolish: Prompt Enhancer
 
 
 # Pending
@@ -18,8 +18,6 @@
 ### 9) ⚗️ readme.script : Readme code generator
 
 ### 10) Interview prep tool
-
-### 11) Prompt Enhancer
 
 ### 12) GraphRAG - Neo4j
 
