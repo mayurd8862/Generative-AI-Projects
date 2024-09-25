@@ -1,15 +1,19 @@
 # Generative-AI-Projects
 
-### 1) 🧠 BrainWave: 🤖 Empowering Your Knowledge Base
-### 2) 🗃️ FileSense.AI : AI Powered File Renamer
-### 3) 🛌 DreamWeaver.AI: AI-Generated Dream Interpretations
-### 4) 🌐 SynthSite: Summarize & Chat Web Platform
-### 5) 📊 TabularConverse: Chat with Your CSV Data
-### 6) 📚 SummarioMail: "Summarize Your Mails with Ease."
-### 7) 🩺 Medical Reports Analyzer
-### 8) 📹 EduQuizer: Youtube Video Quiz Maker
-### 9) 🚩 Marathi RAG system
-### 10) ⚡ PromptPolish: Prompt Enhancer
+| Sr. NO | Description | GitHub Link | Extra |
+|---------|-------------|------|---------|
+|1. | 🧠 BrainWave - 🤖 Empowering Your Knowledge Base | [Link](https://github.com/mayurd8862/Brainwave-Empowering-Your-Knowledge-Base) | - |
+|2. | 🗃️ FileSense.AI - Semantic File Renamer | [Link](https://github.com/mayurd8862/FileSense.AI-Semantic-File-Renamer) |-|
+|3. | 🛌 DreamMinds.AI - AI-Generated Dream Interpretations | [Link](https://github.com/mayurd8862/DreamMinds.AI-From-Sleep-to-Screen-Visualize-Your-Dreams) | - |
+|4. | 🌐 SynthSite - Summarize & Chat Web Platform | [Link](https://github.com/mayurd8862/SynthSite-Summarize-Chat-Web-Platform) | - |
+|5. | 🚩 BolBhidu - Marathi RAG system | [Link](https://github.com/mayurd8862/Marathi_RAG) | - |
+|6. | ⚡ PromptPolish - Prompt Enhancer | [Link](https://github.com/mayurd8862/PromptPolish-Prompt-Enhancer) | - |
+|7. | 📊 TabularConverse - Chat with Your CSV Data | [Link](https://github.com/mayurd8862/TabularConverse-Chat-with-Your-CSV-Data) | - |
+|8. | 🩺 Medical Reports Analyzer | [Link](https://github.com/mayurd8862/Medical-Reports-Analyzer) | - |
+|9. | 📚 SummarioMail - Summarize Your Mails with Ease | [Link](https://github.com/mayurd8862/SummarioMail-Summarize-Your-Mails-with-Ease) | - |
+|10. | 📹 EduQuizer - YouTube Video Quiz Maker | [Link](https://github.com/mayurd8862/EduQuizer-Youtube-Video-Quiz-Maker) | - |
+
+
 
 
 # Pending
