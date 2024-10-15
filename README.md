@@ -4,7 +4,7 @@
 |---------|-------------|------|---------|
 |1. | 🧠 BrainWave - 🤖 Empowering Your Knowledge Base | [Link](https://github.com/mayurd8862/Brainwave-Empowering-Your-Knowledge-Base) | - |
 |2. | 🗃️ FileSense.AI - Semantic File Renamer | [Link](https://github.com/mayurd8862/FileSense.AI-Semantic-File-Renamer) |-|
-|3. | 🛌 DreamMinds.AI - AI-Generated Dream Interpretations | [Link](https://github.com/mayurd8862/DreamMinds.AI-From-Sleep-to-Screen-Visualize-Your-Dreams) | - |
+|3. | 🛌 DreamMinds.AI - From Sleep to Screen, Visualize Your Dreams | [Link](https://github.com/mayurd8862/DreamMinds.AI-From-Sleep-to-Screen-Visualize-Your-Dreams) | - |
 |4. | 🌐 SynthSite - Summarize & Chat Web Platform | [Link](https://github.com/mayurd8862/SynthSite-Summarize-Chat-Web-Platform) | - |
 |5. | 🚩 BolBhidu - Marathi RAG system | [Link](https://github.com/mayurd8862/Marathi_RAG) | - |
 |6. | ⚡ PromptPolish - Prompt Enhancer | [Link](https://github.com/mayurd8862/PromptPolish-Prompt-Enhancer) | - |
